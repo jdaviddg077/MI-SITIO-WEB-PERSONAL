@@ -1,2 +1,2 @@
-# MI-SITIO-WEB-PERSONAL
-ESTE SITIO WEB ESTA DEDICADO PARA MI PORTAFOLIO PROYECTOS PERSONALES Y CONOSER MA ACERCA DE MI TRABAJO
+## Mi sitio web personal ##
+hola me llamo jesus actualmente tengo 17 y me encanta la tecnologuia aunque no se programar tengo unos proyectos que hice con claude  y actualmente estoy estudiando ingenieria informatica en la Unir voy en primer semestre y inicio el 3 de agosto asi que procticamente no tengo conocimientos mas aya de lo que aprendo con programas y la ia  en este espacio se van a guardar proyectos personales y mas 
