@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bienvenidos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-color: rgb(12, 12, 12);">
+    <div class="box1" id="text1">
+        <h1>hola bienvenidos a esta paguina </h1></body>
+    </div>
+ <section>
+ <div class="parte1">
+    <div class="box2">
+        <p> Yo soy jesus el desarrollador de esta paguina </p>
+        <p>Tengo 17 y me encanta la programacion y la robotica de hecho actualmente tengo un proyecto en Stardance si quieres puedes mirar mas en mi repositorio de github</p>
+    </div>
+    <div class="video1" style="display: flex; align-items: center;justify-content: center;">
+        <video width=" 150px" height="200px" autoplay muted loop>
+             <source src="animation hello.mp4" type= "video/mp4"> 
+         </video>
+    </div>
+    <div class="box3">
+        <p>Esta es mi primera animacion</p>
+        <p>es steve y despues hice a una chica anime en el foro de stardance me dijero que la llamara (sisi)</p>
+    </div>
+    <div class="boton1">
+  <a href="https://github.com/jdaviddg077?tab=overview&from=2026-08-01&to=2026-08-03"> <button style="width: 300px; height: 20px; background-color: chartreuse; color: black;">ir a github</button></a>
+    </div>
+</div>
+<div class="box4">
+    <h1>Aca estare colocando enlases a mis proyectos y mi numero de contacto</h1>
+</div>
+<div class="boton2">
+<a href="https://github.com/jdaviddg077/holograma-asistente-de-ia-"> <button style="width: 100%; height: 50px; background-color: chartreuse; color: black;">ir a el asistente holograma (la paguina aun no esta completada/redireccionaremos a github) </button></a>
+</div>
+
+<div class="boton3">
+<a href= sabermas.html "> <button style="width: 100%; height: 50px; background-color: rgb(29, 29, 29); color: rgb(152, 231, 5);">sabermas </button></a>
+</div>
+
+<div class="boton4">
+<a href="https://github.com/jdaviddg077?tab=overview&from=2026-08-01&to=2026-08-03"> <button style="width: 100%; height: 50px; background-color: chartreuse; color: black;"> proximamente</button></a>
+</div>
+</section>
+<div class="CONTACTO">
+    <h1 style="margin-top: 250px; color: chartreuse;text-align: center;">NUMERO DE CONTACTO WHATSAPP: +57 3102223201</h1> 
+</div>
+</body>
+</html>
