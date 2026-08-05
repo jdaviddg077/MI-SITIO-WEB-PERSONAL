@@ -1,0 +1,10 @@
+## INSTRUCCIONES ##
+Lo primero que toca hacer es habrir alguna terminal para poder colocar el codigo y hacer que funcione la paguina personal puedes agregar lo que quieras el mayor obstaculo es tu mente 
+# tips #
+- si vas a colocar un boton que redirecciones promero coloca el el enlace y dentro del enlace coloca el botom algo asi 
+<a><button></button></a>
+- usa <div></div> para dividir las cosas es mas facil de organisarl las cosas y si ya tienes demaciados <div> usa <section> para separarlo y estar mas organisado a tambien si nosabes usar css puedes dentro de los comando colocar la palabra style ="" 
+ asi
+ <div style=" background-color:red;"><div>
+ este comando lo que hace es cambiar de color la caja en este caso rojo 
+ eso por ensima recuerda que si no sabes algo puedes mirar en internet por ej yo no sabia nada de nada de html y css y haora se lo basico es una muy buena alternativa si eres curioso :)
